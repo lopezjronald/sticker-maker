@@ -1,2 +1,1 @@
 # sticker-maker
-# sticker-maker
